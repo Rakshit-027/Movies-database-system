@@ -57,7 +57,7 @@ A Movie/TV Show Database application built with React.js that allows users to se
 
 ---
 
-## 🖼️ Screenshots (Optional)
+## 🖼️ Screenshot
 ![](image.png)
 
 ---
