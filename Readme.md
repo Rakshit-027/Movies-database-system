@@ -126,5 +126,3 @@ Developed by [Rakshit Waghmare](https://rakshitw.netlify.app/)
 
 Feel free to customize and improve!
 ```  
-
-Let me know if you'd like to include more sections or make adjustments!
